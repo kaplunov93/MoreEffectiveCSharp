@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MECS.Chapter3.Item22.Program</StartupObject>
+    <StartupObject>MECS.Chapter3.Item23.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -51,6 +51,7 @@
     <Compile Include="Item 20.cs" />
     <Compile Include="Item 21.cs" />
     <Compile Include="Item 22.cs" />
+    <Compile Include="Item 23.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

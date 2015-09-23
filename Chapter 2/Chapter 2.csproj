@@ -32,7 +32,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MECS.Chapter2.Item16.Program</StartupObject>
+    <StartupObject>MECS.Chapter2.Item11.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

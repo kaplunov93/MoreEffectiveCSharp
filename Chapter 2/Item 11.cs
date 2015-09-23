@@ -13,7 +13,7 @@ namespace MECS.Chapter2.Item11
         static void Main(string[] args)
         {
             Console.WriteLine("ThreadPool Working in {0}", ThreadPoolThreads(10).ToString());
-            Console.WriteLine("Manual Threads Working in {0}", ManualThreads(10).ToString());
+            //Console.WriteLine("Manual Threads Working in {0}", ManualThreads(10).ToString());
 
 
             Console.ReadKey();
